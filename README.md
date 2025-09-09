@@ -18,3 +18,19 @@ interactive conversions.
 -   📱 Responsive and user-friendly
 
 ------------------------------------------------------------------------
+
+## 🖼️ Preview
+
+![App
+Screenshot](https://via.placeholder.com/900x500.png?text=Length+Unit+Converter+Preview)
+
+------------------------------------------------------------------------
+
+## 📂 Project Structure
+
+    📦 Length-Unit-Converter
+     ┣ 📜 index.html      # Main HTML structure
+     ┣ 📜 style.css       # Styling for UI
+     ┗ 📜 script.js       # Conversion logic
+
+------------------------------------------------------------------------
