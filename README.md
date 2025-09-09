@@ -83,6 +83,6 @@ PRs.
 
 ## 👨‍💻 Author
 
-**Your Name**\
-🔗 [GitHub Profile](https://github.com/)
+**Mir Asim Ali**\
+🔗 [[GitHub Profile](https://github.com/](https://github.com/MirAsimAli))
 
