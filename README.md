@@ -84,5 +84,5 @@ PRs.
 ## 👨‍💻 Author
 
 **Mir Asim Ali**\
-🔗 [[GitHub Profile](https://github.com/](https://github.com/MirAsimAli))
+🔗 https://github.com/MirAsimAli
 
