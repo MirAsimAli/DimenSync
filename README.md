@@ -34,3 +34,55 @@ Screenshot](https://via.placeholder.com/900x500.png?text=Length+Unit+Converter+P
      ┗ 📜 script.js       # Conversion logic
 
 ------------------------------------------------------------------------
+## 🛠️ Tech Stack
+
+-   🌐 **HTML5** -- Structure\
+-   🎨 **CSS3** -- Styling\
+-   ⚡ **JavaScript (Vanilla)** -- Conversion logic
+
+------------------------------------------------------------------------
+
+## 💡 How It Works
+
+1.  Enter a value in any field (feet, meters, inches, etc.)\
+2.  All other units update **instantly** with the correct conversion
+    values.
+
+------------------------------------------------------------------------
+
+## 📸 Demo GIF (Optional)
+
+*Add a GIF showing how it works once deployed*
+
+------------------------------------------------------------------------
+
+## 🚀 Deployment
+
+You can easily deploy this on **Netlify, GitHub Pages, or Vercel**:
+
+``` bash
+# Example Netlify CLI deploy
+netlify deploy
+```
+
+------------------------------------------------------------------------
+
+## 📜 License
+
+This project is licensed under the **MIT License** -- free to use and
+modify.
+
+------------------------------------------------------------------------
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork, open issues, or submit
+PRs.
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+**Your Name**\
+🔗 [GitHub Profile](https://github.com/)
+
