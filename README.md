@@ -9,3 +9,12 @@ Built with **HTML, CSS, and JavaScript** for quick, accurate, and
 interactive conversions.
 
 ------------------------------------------------------------------------ 
+
+## 🚀 Features
+
+-   🔄 Real-time conversions between 7 different units of length\
+-   🎨 Clean and modern UI with CSS styling\
+-   ⚡ Lightweight and fast (pure HTML, CSS, JS -- no frameworks)\
+-   📱 Responsive and user-friendly
+
+------------------------------------------------------------------------
