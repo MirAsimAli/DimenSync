@@ -17,12 +17,6 @@ interactive conversions.
 -   ⚡ Lightweight and fast (pure HTML, CSS, JS -- no frameworks)\
 -   📱 Responsive and user-friendly
 
-------------------------------------------------------------------------
-
-## 🖼️ Preview
-
-![App
-Screenshot](https://via.placeholder.com/900x500.png?text=Length+Unit+Converter+Preview)
 
 ------------------------------------------------------------------------
 
